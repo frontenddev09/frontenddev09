@@ -13,5 +13,3 @@ I work as a freelancer
 <code><img src='https://miro.medium.com/max/512/1*YWazhGyGmNs6K3HZE71570.png' height='25' /></code>
 <code><img src='https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png' height='25' /></code>
 <code><img src='https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-black-and-white.png' height='25' /></code>
-<code><img src='https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png' height='25' /></code>
-<code><img src='https://cdn.iconscout.com/icon/free/png-256/graphq1-3627039-3029432.png' height='25' /></code>

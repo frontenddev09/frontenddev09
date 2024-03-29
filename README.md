@@ -6,4 +6,4 @@ I work as a freelancer
 
 ### Language and tools I wwork with:
 
-<code><img src='https://images.app.goo.gl/cFycrJJZPh4o4CHZA' height='25' /></code>
+<code><img src='https://images.app.goo.gl/fTmXbLvNLj6A87Yt8' height='25' /></code>

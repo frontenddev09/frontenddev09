@@ -15,6 +15,6 @@ I work as a freelancer
 <code><img src='https://cdn.freebiesupply.com/logos/large/2x/redux-logo-png-transparent.png' height='25' /></code>
 <br/>
 
-- 📍&nbsp; Current location: Fergana, Uzbekistan
+- 📍&nbsp; Current location: Samarkand, Uzbekistan
 - 📑&nbsp; Ask me about anything, I am happy to help
 - 📩&nbsp; How to reach me: [@ozodbekkasimov](https://www.instagram.com/ozod_bek.kas1mov09)

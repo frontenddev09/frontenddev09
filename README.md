@@ -9,7 +9,7 @@ I work as a freelancer
 <code><img src='https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png' height='25' /></code>
 <code><img src='https://batflat.org/themes/default/img/css-logo.png' height='25' /></code>
 <code><img src='https://sass-lang.com/assets/img/styleguide/white-e44bedød.png' height='25' /></code>
-<code><img src='https://iconape.com/wp-content/png_logo_vector/bootstrap.png' height='25' /></code>
+<code><img src='https://images.app.goo.gl/BiVvMvXHh27JAQvt8' height='25' /></code>
 <code><img src='https://miro.medium.com/max/512/1*YWazhGyGmNs6K3HZE71570.png' height='25' /></code>
 <code><img src='https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png' height='25' /></code>
 <code><img src='https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-black-and-white.png' height='25' /></code>

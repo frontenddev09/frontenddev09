@@ -6,6 +6,12 @@ I work as a freelancer
 
 ### Language and tools I wwork with:
 
-<code><img src='https://avatars.mds.yandex.net/i?id=9bdf49d3c51c30e6d27179a29aa7d3a93be88bdd-9065825-images-thumbs&n=13' height='25' /></code>
-<code><img src='https://avatars.mds.yandex.net/i?id=f4e85d5d0c417c00be144ae7b009f1ecd43f42ae-9104009-images-thumbs&n=13' height='25' /></code>
-<code><img src='https://avatars.mds.yandex.net/i?id=9656aefd10bd78ed49f9c985f822ca18436e0636-8245560-images-thumbs&n=13' height='25' /></code>
+<code><img src='https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png' height='25' /></code>
+<code><img src='https://batflat.org/themes/default/img/css-logo.png' height='25' /></code>
+<code><img src='https://sass-lang.com/assets/img/styleguide/white-e44bedød.png' height='25' /></code>
+<code><img src='https://iconape.com/wp-content/png_logo_vector/bootstrap.png' height='25' /></code>
+<code><img src='https://miro.medium.com/max/512/1*YWazhGyGmNs6K3HZE71570.png' height='25' /></code>
+<code><img src='https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png' height='25' /></code>
+<code><img src='https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-black-and-white.png' height='25' /></code>
+<code><img src='https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png' height='25' /></code>
+<code><img src='https://cdn.iconscout.com/icon/free/png-256/graphq1-3627039-3029432.png' height='25' /></code>

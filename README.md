@@ -10,6 +10,6 @@ I work as a freelancer
 <code><img src='https://batflat.org/themes/default/img/css-logo.png' height='25' /></code>
 <code><img src='https://cdn.freebiesupply.com/logos/large/2x/sass-1-logo-png-transparent.png' height='25' /></code>
 <code><img src='https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-black.svg' height='25' /></code>
-<code><img src='https://miro.medium.com/max/512/1YWazhGyGmNs6K3HZE71570.png' height='25' /></code>
+<code><img src='https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png' height='25' /></code>
 <code><img src='https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png' height='25' /></code>
 <code><img src='https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-black-and-white.png' height='25' /></code>

@@ -1,6 +1,6 @@
 ### Hi, My name is Ozodbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-I'm frontend developer and student.
+I'm frontend react developer and student.
 <br/>
 I work as a freelancer
 

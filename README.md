@@ -16,5 +16,5 @@ I work as a freelancer
 <br/>
 
 - 📍&nbsp; Current location: Samarkand, Uzbekistan
-- 📑&nbsp; Ask me about anything, I am happy to help
 - 📩&nbsp; How to reach me: [@ozodbekkasimov](https://www.instagram.com/ozod_bek.kas1mov09)
+- 📑&nbsp; I am happy to help
